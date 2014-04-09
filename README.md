@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Fourth time is the win??
+This is the readme document!
